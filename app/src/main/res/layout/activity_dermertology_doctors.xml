@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DermertologyDoctorsActivity">
+
+
+
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar4"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="#0080FF"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="24dp"
+        android:text="Select your preffered Specialist"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        app:layout_constraintStart_toStartOf="@+id/textView"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="16dp"
+        android:text="Nephrology Specialist"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/FloatingActionButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="24dp"
+        android:backgroundTint="@color/white"
+        android:clickable="true"
+        android:src="@drawable/baseline_arrow_back_24"
+        android:tint="#123"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="match_parent"
+        android:layout_height="700dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="1dp"
+        android:overScrollMode="never"
+        android:scrollbars="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:orientation="vertical">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/Card_View_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                app:cardBackgroundColor="#0080FF"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="3dp"
+                app:contentPadding="4dp"
+
+
+
+                >
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:id="@+id/Relative_Layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="16dp">
+
+                    <ImageView
+                        android:id="@+id/Doctor_Image"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:background="@drawable/docone"
+                        app:layout_constraintLeft_toLeftOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+
+
+                        />
+                    <TextView
+                        android:id="@+id/ViewMore"
+                        android:layout_width="63dp"
+                        android:layout_height="15dp"
+                        android:text="ViewMore"
+                        android:textColor="@color/white"
+                        android:textSize="10dp"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintHorizontal_bias="0.915"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="0.88" />
+
+                    <TextView
+                        android:id="@+id/Doctor_Name"
+                        android:layout_width="236dp"
+                        android:layout_height="39dp"
+                        android:layout_marginLeft="10dp"
+                        android:text="Dr Sheilah Davany"
+                        android:textColor="@color/white"
+                        android:textSize="25dp"
+                        app:layout_constraintLeft_toRightOf="@id/Doctor_Image"
+                        app:layout_constraintTop_toTopOf="parent"
+
+
+                        />
+
+
+                    <TextView
+                        android:id="@+id/Doc1"
+                        android:layout_width="236dp"
+                        android:layout_height="16dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="8dp"
+                        android:text="Cardiology"
+                        android:textColor="@color/white"
+                        app:layout_constraintLeft_toRightOf="@+id/Doctor_Image"
+                        app:layout_constraintTop_toBottomOf="@+id/Doctor_Name" />
+
+
+                    <TextView
+                        android:layout_width="236dp"
+                        android:layout_height="16dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="8dp"
+                        android:text="Mater Hospital"
+                        android:textColor="@color/white"
+                        app:layout_constraintLeft_toRightOf="@+id/Doctor_Image"
+                        app:layout_constraintTop_toBottomOf="@+id/Doc1" />
+
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                app:cardBackgroundColor="#0080FF"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="3dp"
+                app:contentPadding="4dp"
+                android:id="@+id/Card_View_2"
+
+
+                >
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="16dp">
+
+                    <ImageView
+                        android:id="@+id/Doc2_Image"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:background="@drawable/docone"
+                        app:layout_constraintLeft_toLeftOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+
+
+                        />
+
+                    <TextView
+                        android:id="@+id/Doc2_Name"
+                        android:layout_width="236dp"
+                        android:layout_height="39dp"
+                        android:layout_marginLeft="10dp"
+                        android:text="Dr Phaustine Agnes"
+                        android:textColor="@color/white"
+                        android:textSize="25dp"
+                        app:layout_constraintLeft_toRightOf="@id/Doc2_Image"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+
+                    <TextView
+                        android:id="@+id/Doc2_Speciality"
+                        android:layout_width="236dp"
+                        android:layout_height="16dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="8dp"
+                        android:text="Cardiology"
+                        android:textColor="@color/white"
+                        app:layout_constraintLeft_toRightOf="@+id/Doc2_Image"
+                        app:layout_constraintTop_toBottomOf="@+id/Doc2_Name"
+
+                        />
+
+
+                    <TextView
+                        android:layout_width="236dp"
+                        android:layout_height="16dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="8dp"
+                        android:text="Mater Hospital"
+                        android:textColor="@color/white"
+                        app:layout_constraintLeft_toRightOf="@+id/Doc2_Image"
+                        app:layout_constraintTop_toBottomOf="@+id/Doc2_Speciality" />
+
+                    <TextView
+                        android:id="@+id/ViewMore2"
+                        android:layout_width="63dp"
+                        android:layout_height="15dp"
+                        android:text="ViewMore"
+                        android:textColor="@color/white"
+                        android:textSize="10dp"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintHorizontal_bias="0.915"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="0.88" />
+
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                app:cardBackgroundColor="#0080FF"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="3dp"
+                app:contentPadding="4dp"
+                android:id="@+id/Card_View_3"
+
+
+                >
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="16dp">
+
+                    <ImageView
+                        android:id="@+id/Doc3_Image"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:background="@drawable/docthree"
+                        app:layout_constraintLeft_toLeftOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+
+
+                        />
+                    <TextView
+                        android:id="@+id/ViewMore3"
+                        android:layout_width="63dp"
+                        android:layout_height="15dp"
+                        android:text="ViewMore"
+                        android:textColor="@color/white"
+                        android:textSize="10dp"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintHorizontal_bias="0.915"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="0.88" />
+
+                    <TextView
+                        android:id="@+id/Doc3_Name"
+                        android:layout_width="236dp"
+                        android:layout_height="39dp"
+                        android:layout_marginLeft="10dp"
+                        android:text="Dr Daisy Eunice"
+                        android:textColor="@color/white"
+                        android:textSize="25dp"
+                        app:layout_constraintLeft_toRightOf="@id/Doc3_Image"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+
+                    <TextView
+                        android:id="@+id/Doc3_Speciality"
+                        android:layout_width="236dp"
+                        android:layout_height="16dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="8dp"
+                        android:text="Cardiology"
+                        android:textColor="@color/white"
+                        app:layout_constraintLeft_toRightOf="@+id/Doc3_Image"
+                        app:layout_constraintTop_toBottomOf="@+id/Doc3_Name" />
+
+
+                    <TextView
+                        android:layout_width="236dp"
+                        android:layout_height="16dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="8dp"
+                        android:text="Mater Hospital"
+                        android:textColor="@color/white"
+                        app:layout_constraintLeft_toRightOf="@+id/Doc3_Image"
+                        app:layout_constraintTop_toBottomOf="@+id/Doc3_Speciality" />
+
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                app:cardBackgroundColor="#0080FF"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="3dp"
+                app:contentPadding="4dp"
+                android:id="@+id/Card_View_4"
+
+
+                >
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="16dp">
+
+                    <ImageView
+                        android:id="@+id/Doc4_Image"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:background="@drawable/docfour"
+                        app:layout_constraintLeft_toLeftOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+
+
+                        />
+                    <TextView
+                        android:id="@+id/ViewMore4"
+                        android:layout_width="63dp"
+                        android:layout_height="15dp"
+                        android:text="ViewMore"
+                        android:textColor="@color/white"
+                        android:textSize="10dp"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintHorizontal_bias="0.915"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="0.88" />
+
+                    <TextView
+                        android:id="@+id/Doc4_Name"
+                        android:layout_width="236dp"
+                        android:layout_height="39dp"
+                        android:layout_marginLeft="10dp"
+                        android:text="Dr Alphonce Otieno"
+                        android:textColor="@color/white"
+                        android:textSize="25dp"
+                        app:layout_constraintLeft_toRightOf="@id/Doc4_Image"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+
+                    <TextView
+                        android:id="@+id/Doc4_Speciality"
+                        android:layout_width="236dp"
+                        android:layout_height="16dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="8dp"
+                        android:text="Cardiology"
+                        android:textColor="@color/white"
+                        app:layout_constraintLeft_toRightOf="@+id/Doc4_Image"
+                        app:layout_constraintTop_toBottomOf="@+id/Doc4_Name" />
+
+
+                    <TextView
+                        android:layout_width="236dp"
+                        android:layout_height="16dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="8dp"
+                        android:text="Mater Hospital"
+                        android:textColor="@color/white"
+                        app:layout_constraintLeft_toRightOf="@+id/Doc4_Image"
+                        app:layout_constraintTop_toBottomOf="@+id/Doc4_Speciality" />
+
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                app:cardBackgroundColor="#0080FF"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="3dp"
+                app:contentPadding="4dp"
+                android:id="@+id/Card_View_5"
+
+
+                >
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="16dp">
+
+                    <ImageView
+                        android:id="@+id/Doc5_Image"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:background="@drawable/docfive"
+                        app:layout_constraintLeft_toLeftOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+
+
+                        />
+                    <TextView
+                        android:id="@+id/ViewMore5"
+                        android:layout_width="63dp"
+                        android:layout_height="15dp"
+                        android:text="ViewMore"
+                        android:textColor="@color/white"
+                        android:textSize="10dp"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintHorizontal_bias="0.915"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="0.88" />
+
+                    <TextView
+                        android:id="@+id/Doc5_Name"
+                        android:layout_width="236dp"
+                        android:layout_height="39dp"
+                        android:layout_marginLeft="10dp"
+                        android:text="Dr Thelma White"
+                        android:textColor="@color/white"
+                        android:textSize="25dp"
+                        app:layout_constraintLeft_toRightOf="@id/Doc5_Image"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+
+                    <TextView
+                        android:id="@+id/Doc5_Speciality"
+                        android:layout_width="236dp"
+                        android:layout_height="16dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="8dp"
+                        android:text="Cardiology"
+                        android:textColor="@color/white"
+                        app:layout_constraintLeft_toRightOf="@+id/Doc5_Image"
+                        app:layout_constraintTop_toBottomOf="@+id/Doc5_Name" />
+
+
+                    <TextView
+                        android:layout_width="236dp"
+                        android:layout_height="16dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="8dp"
+                        android:text="Mater Hospital"
+                        android:textColor="@color/white"
+                        app:layout_constraintLeft_toRightOf="@+id/Doc5_Image"
+                        app:layout_constraintTop_toBottomOf="@+id/Doc5_Speciality" />
+
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

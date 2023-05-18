@@ -1,0 +1,7 @@
+#Thu May 18 11:12:42 EAT 2023
+base.1=/home/alph/AndroidStudioProjects/MyProjectLoginApplication/app/build/intermediates/dex/debug/mergeDexDebug/classes2.dex
+path.1=classes2.dex
+base.0=/home/alph/AndroidStudioProjects/MyProjectLoginApplication/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_patients_dash_board.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_patients_dash_board.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_doctor_register.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_doctor_register.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_patient_payment.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_patient_payment.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_main.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/fragment_splash.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_communication_format.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_communication_format.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_login.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_obsetrics_doctors.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_obsetrics_doctors.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_doctor_details.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_doctor_details.xml"
+    },
+    {
+        "merged": "com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_doctor_register.xml",
+        "source": "com.example.myprojectloginapplication.app-main-55:/layout/activity_doctor_register.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_patient_prescription.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_patient_prescription.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_orthopedics_doctors.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_orthopedics_doctors.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_doctors_dashboard.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_doctors_dashboard.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_main_dashboard2.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_main_dashboard2.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_maps.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/registerloginscrollview.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/registerloginscrollview.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_doctor_prescription.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_doctor_prescription.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_main2.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/patient_prescription_layout.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/patient_prescription_layout.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_obygn_doctors.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_obygn_doctors.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/fragment_third_screen.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/fragment_third_screen.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_commnication_format.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_commnication_format.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_our_doctors.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_our_doctors.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/fragment_second.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_register.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_general_surgery_doctors.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_general_surgery_doctors.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_bookin_patient.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_bookin_patient.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_doctors_sign_in.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_doctors_sign_in.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_website_ativity.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_website_ativity.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_vascular_doctors.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_vascular_doctors.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_splass_screen.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_splass_screen.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_doc_website.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_doc_website.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_speciality_selection_scroll_view.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_speciality_selection_scroll_view.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_general_surgery.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_general_surgery.xml"
+    },
+    {
+        "merged": "com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_register.xml",
+        "source": "com.example.myprojectloginapplication.app-main-55:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_booking_doc_view.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_booking_doc_view.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/doctors_login.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/doctors_login.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_addspeciality.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_addspeciality.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_dermertology_doctors.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_dermertology_doctors.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_main_dashboard.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_main_dashboard.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/expandaple_doctor_details_layout.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/expandaple_doctor_details_layout.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/doctordetails.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/doctordetails.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/doctors_scroll_view.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/doctors_scroll_view.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/fragment_view_pager.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/fragment_view_pager.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_admin_speciality_adition.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_admin_speciality_adition.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_main3.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_main3.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_speciality_scroll_view.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_speciality_scroll_view.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/fragment_first_screen.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/fragment_first_screen.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_nephrology_doctors.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_nephrology_doctors.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_doctor_form.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_doctor_form.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/card_layout.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/card_layout.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_paediatric_doctors.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_paediatric_doctors.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_home.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-mergeDebugResources-52:/layout/activity_doctor_login.xml",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_doctor_login.xml"
+    }
+]

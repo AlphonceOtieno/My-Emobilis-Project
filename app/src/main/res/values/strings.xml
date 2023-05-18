@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Medical app</string>
+    <string name="Password_Hide">Show/HidePassword</string>
+    <string name="done">Done</string>
+    <string name="Doctor_Details">
+        <br> <b>Hospital affiliations</b></br>
+        Mater Hospital , Mpishah Hospital, Agha Khan hospital
+
+         <br><b>Consultation Fee</b></br>
+        Ksh 5000
+
+        <br><b>Poffesional profile</b></br>
+        Dr.Alphonce Otieno studied medicine at the university of Naiorobi,
+        and graduated in 2000 with MBChB. He also undertook a bachelor of
+        science research  degree in patients with diabetes and cardiovascular diseases
+        Dr.Alphonce has performed his general cardiology training at several teaching hospitals in London UK
+        and subspeciality training in coronary intervention at Agha Khan Hospital  college, and Kenyatta Hospital
+        He is an experienced interventionist routinely performing complex <angioplasity>                                                                                                                                                                    </angioplasity>
+
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad amet, at, cum dolor dolores est eum
+        excepturi illo ipsam iure molestiae officiis quibusdam repellendus rerum sed tempora unde veniam. Nesciunt?</string>
+
+
+</resources>

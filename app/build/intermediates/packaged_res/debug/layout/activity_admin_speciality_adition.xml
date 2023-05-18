@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Admin_Speciality_Adition_Activity">
+
+    <EditText
+        android:id="@+id/SpecialityType"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginBottom="12dp"
+        android:hint="type of speciality"
+        app:layout_constraintBottom_toTopOf="@+id/PickButton"
+        app:layout_constraintStart_toStartOf="@+id/SpecialityImage"
+        app:layout_constraintTop_toBottomOf="@+id/SpecialityImage" />
+
+    <ImageView
+        android:id="@+id/SpecialityImage"
+        android:layout_width="200dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="36dp"
+        android:layout_marginBottom="32dp"
+        app:layout_constraintBottom_toTopOf="@+id/SpecialityType"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/vascular" />
+
+    <Button
+        android:id="@+id/PickButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="93dp"
+        android:hint="Pick Image"
+        android:text="pickimage"
+        android:textAllCaps="false"
+        app:layout_constraintBottom_toTopOf="@+id/BookingButton"
+        app:layout_constraintEnd_toEndOf="@+id/SpecialityType"
+        app:layout_constraintTop_toBottomOf="@+id/SpecialityType" />
+
+    <Button
+        android:id="@+id/BookingButton"
+        android:layout_width="190dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="112dp"
+        android:layout_marginBottom="143dp"
+        android:hint="save"
+        android:text="save"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/PickButton" />
+</androidx.constraintlayout.widget.ConstraintLayout>

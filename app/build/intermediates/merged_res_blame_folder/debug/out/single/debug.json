@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_fragment_view_pager.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/fragment_view_pager.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_obsetrics_doctors.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_obsetrics_doctors.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_doctwentysix.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/doctwentysix.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_docthirteen.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/docthirteen.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_registerloginscrollview.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/registerloginscrollview.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_main_dashboard.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_main_dashboard.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_login.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_doctwelve.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/doctwelve.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_expandaple_doctor_details_layout.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/expandaple_doctor_details_layout.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_patientdashboard.jpg.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/patientdashboard.jpg"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_communication_format.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_communication_format.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_doctwentyseven.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/doctwentyseven.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_docone.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/docone.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_orthopedics_doctors.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_orthopedics_doctors.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_vascular_doctors.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_vascular_doctors.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_orthopaedics.jpg.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/orthopaedics.jpg"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_generalsyrgery.jpg.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/generalsyrgery.jpg"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_nephrology_doctors.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_nephrology_doctors.xml"
+    },
+    {
+        "merged": "com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_doctor_register.xml.flat",
+        "source": "com.example.myprojectloginapplication.app-main-55:/layout/activity_doctor_register.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_doctor_register.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_doctor_register.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-pngs-48:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_doceleven.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/doceleven.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_paediatric_doctors.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_paediatric_doctors.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_ent.jpg.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/ent.jpg"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_docfour.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/docfour.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_video_call_image.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/video_call_image.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_doctors_sign_in.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_doctors_sign_in.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/navigation_my_nav.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/navigation/my_nav.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_dashboardsprciality.jpg.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/dashboardsprciality.jpg"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_nephrology.jpeg.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/nephrology.jpeg"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable-xxxhdpi_baseline_arrow_back_24.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-pngs-48:/drawable-xxxhdpi/baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_booking_doc_view.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_booking_doc_view.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_doctor_details.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_doctor_details.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_dermatology.jpeg.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/dermatology.jpeg"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_colateral.jpg.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/colateral.jpg"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_fragment_second.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_round_back_dark_blue.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/round_back_dark_blue.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_maps.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable-mdpi_baseline_arrow_back_24.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-pngs-48:/drawable-mdpi/baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_obgyn.jpg.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/obgyn.jpg"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_patient_prescription_layout.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/patient_prescription_layout.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-pngs-48:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_docfourteen.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/docfourteen.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_doctor_form.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_doctor_form.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_docfiveteen.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/docfiveteen.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_docnineteen.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/docnineteen.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_card_layout.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/card_layout.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_doclogin.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/doclogin.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_vascular.jpg.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/vascular.jpg"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_doctwentyfour.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/doctwentyfour.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_docnine.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/docnine.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_website_ativity.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_website_ativity.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_round_background_primary.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/round_background_primary.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-pngs-48:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_call_icon.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/call_icon.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_patients_dash_board.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_patients_dash_board.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_bookin_patient.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_bookin_patient.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_general_surgery_doctors.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_general_surgery_doctors.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_doceight.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/doceight.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-pngs-48:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_speciality_selection_scroll_view.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_speciality_selection_scroll_view.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable-ldpi_baseline_arrow_back_24.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-pngs-48:/drawable-ldpi/baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_obygn_doctors.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_obygn_doctors.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_doctwenty.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/doctwenty.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_general_surgery.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_general_surgery.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_learningdoc.jpg.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/learningdoc.jpg"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/menu_top_app_bar.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/menu/top_app_bar.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_main2.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_obsetrics.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/obsetrics.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_doceighteen.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/doceighteen.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_our_doctors.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_our_doctors.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-pngs-48:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_fragment_third_screen.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/fragment_third_screen.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_chat_icon.jpg.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/chat_icon.jpg"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_paymentpic.jpg.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/paymentpic.jpg"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_fragment_first_screen.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/fragment_first_screen.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_patient_payment.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_patient_payment.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_fragment_splash.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_dermertology_doctors.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_dermertology_doctors.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_docappointment.jpg.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/docappointment.jpg"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_docten.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/docten.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_cardiology.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/cardiology.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_home.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-pngs-48:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/xml_backup_rules.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_doctorlogin.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/doctorlogin.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable-anydpi-v21_baseline_arrow_back_24.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-pngs-48:/drawable-anydpi-v21/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_register.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable-hdpi_baseline_arrow_back_24.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-pngs-48:/drawable-hdpi/baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_openerimage.jpg.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/openerimage.jpg"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_techdoc.jpg.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/techdoc.jpg"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_doctor.jpg.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/doctor.jpg"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_doctor_login.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_doctor_login.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_speciality_scroll_view.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/speciality_scroll_view.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable-xhdpi_baseline_arrow_back_24.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-pngs-48:/drawable-xhdpi/baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_doctor_prescription.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_doctor_prescription.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_docseven.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/docseven.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_docfouteen.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/docfouteen.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-pngs-48:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_doctors_dashboard.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_doctors_dashboard.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_doctwentytwo.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/doctwentytwo.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_main_dashboard2.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_main_dashboard2.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_docorlogin.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/docorlogin.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_docthree.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/docthree.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_paediatrics.jpeg.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/paediatrics.jpeg"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_speciality.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/speciality.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_doctordetails.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/doctordetails.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_main.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_password_show_icon.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/password_show_icon.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_docsix.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/docsix.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_prescription.jpeg.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/prescription.jpeg"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_addspeciality.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_addspeciality.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_main3.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_main3.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_docsixteen.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/docsixteen.png"
+    },
+    {
+        "merged": "com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_register.xml.flat",
+        "source": "com.example.myprojectloginapplication.app-main-55:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_docprofile.webp.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/docprofile.webp"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_googleicon.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/googleicon.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable-xxhdpi_baseline_arrow_back_24.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-pngs-48:/drawable-xxhdpi/baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_splass_screen.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_splass_screen.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-pngs-48:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_doctors_scroll_view.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/doctors_scroll_view.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_doctwentyone.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/doctwentyone.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_doctors_login.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/doctors_login.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_doctwo.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/doctwo.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_index.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/index.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_admin_speciality_adition.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_admin_speciality_adition.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_speciality_scroll_view.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_speciality_scroll_view.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_docteventeen.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/docteventeen.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_doctwentyfive.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/doctwentyfive.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_doctwentythree.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/doctwentythree.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_patient_prescription.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_patient_prescription.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/drawable_docfive.png.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/drawable/docfive.png"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_commnication_format.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_commnication_format.xml"
+    },
+    {
+        "merged": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-merged_res-53:/layout_activity_doc_website.xml.flat",
+        "source": "/home/alph/.gradle/daemon/7.5/com.example.myprojectloginapplication.app-main-55:/layout/activity_doc_website.xml"
+    }
+]
